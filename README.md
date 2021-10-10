@@ -1,3 +1,3 @@
 # my-blog
 
-my Second React project
+My Second React project
